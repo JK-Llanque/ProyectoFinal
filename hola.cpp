@@ -10,5 +10,6 @@ int main(){
     cout<<"hola desde";
     cout<<"hola desde dev";
     cout<<"bajitos nomas dire: ";
+    coit<<"Tan Gozuuu ";
     return 0;
 }
